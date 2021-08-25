@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @geekLucian, an electrical engineering undergraduate from Xi'an Jiaotong University (XJTU)
 - 👀 My research interests lie in Computer Architecture and Very Large Scale Integration (VLSI)
+- 🌱 I’m currently learning Chisel, CUDA, and gem5 simulator
 - 📫 E-mail: oooooct27@gmail.com || lucheng@stu.xjtu.edu.cn
 
 <!---
