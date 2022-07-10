@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @geekLucian, an electrical engineering undergraduate from Xi'an Jiaotong University (XJTU)
-- 👀 My research interests lie in Computer Architecture and Very Large Scale Integration (VLSI)
+- 👋 Hi, I’m @geekLucian, an EE senior @ Xi'an Jiaotong University (XJTU)
+- 👀 My research interests lie in novel computer architecture design and Very Large Scale Integration (VLSI)
 - 🌱 I’m currently learning EDA tools, CUDA, and gem5 simulator
-- 📫 E-mail: i@lucian.run || geekLucian@outlook.com || lucheng@stu.xjtu.edu.cn
+- 📫 E-mail: geekLucian@gmail.com || lucheng@stu.xjtu.edu.cn || i@lucian.run
 
 <!---
 geekLucian/geekLucian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
